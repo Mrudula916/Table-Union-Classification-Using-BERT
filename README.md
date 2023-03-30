@@ -23,7 +23,7 @@ Both the embedding files are necessary to run the classification task.
 
 ## To Download the pre-trained embeddings and other data items, please follow this link: https://drive.google.com/drive/folders/17aahX12l7pNkcHNH1XuTdoXASTKMItHV?usp=sharing
 
-## NOTE: All the paths in the code are given as drive links. If files are being used from local directories (or any other paths), the format of the file paths need to changed accordingly. 
+## NOTE: All the paths in the code are given as drive links. If files are being used from local directories (or any other paths), the format of the file paths need to changed accordingly. Also, the dataset is the private property of Data Lab, Northeastern University. For access, permission is required.
 
 ## For any further queries/clarifications, please contact:
 Mrudula Krishna Prasad - krishnaprasad.m@northeastern.edu
